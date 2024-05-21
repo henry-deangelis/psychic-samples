@@ -1,5 +1,5 @@
-# Psychic Samples
+# Python Samples
 
-Collection of samples and examples I have created, mostly to demonstrate coding techniques in Python
+This repo is a collection of samples and examples created, mostly to demonstrate coding technique in Python.
 
-Look for additional README files in subdirectories.
+Look for README files in subdirecdtories for a description of each tool.
